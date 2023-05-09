@@ -1,0 +1,1 @@
+final splashRoute = "/SplashScreen";
